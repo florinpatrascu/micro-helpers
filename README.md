@@ -1,4 +1,4 @@
 micro-helpers
 =============
 
-Helpers components for the Micro framework
+Helper components for the Micro framework
